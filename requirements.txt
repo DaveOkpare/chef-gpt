@@ -1,0 +1,4 @@
+replicate
+streamlit
+langchain
+python-dotenv
